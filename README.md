@@ -13,6 +13,11 @@ Hi there! I'm a passionate software developer with a strong foundation in Java a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaffonso&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;" />
 </div>
 
+<div dir="auto" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpaffonso&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 100%;" width="49%" height="195px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaffonso&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;" width="41%" height="195px">  
+<div>
+
 <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
